@@ -1,10 +1,8 @@
 ## minimal requirementst
 
-* GNU/Linux with GNU libc
-* cmake 2.6
+* modern GCC
 
 ```
-$ cmake .
 $ make
 $ make install
 ```
